@@ -61,11 +61,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\EndMusic.cs" />
-    <Compile Include="Assets\NoteDisplayer.cs" />
-    <Compile Include="Assets\NoteDropping.cs" />
-    <Compile Include="Assets\PlayMusic.cs" />
-    <Compile Include="Assets\timer.cs" />
+    <Compile Include="Assets\Scripts\Catch.cs" />
+    <Compile Include="Assets\Scripts\clickSong.cs" />
+    <Compile Include="Assets\Scripts\EndMusic.cs" />
+    <Compile Include="Assets\Scripts\NoteDisplayer.cs" />
+    <Compile Include="Assets\Scripts\NoteDropping.cs" />
+    <Compile Include="Assets\Scripts\PanelMove.cs" />
+    <Compile Include="Assets\Scripts\PlayMusic.cs" />
+    <Compile Include="Assets\Scripts\songPlay.cs" />
+    <Compile Include="Assets\Scripts\tap.cs" />
+    <Compile Include="Assets\Scripts\timer.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Henry/Desktop/music_game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
